@@ -1,0 +1,3 @@
+# data folder in any subfolder of the current directory
+**/data/*
+.DS_Store
